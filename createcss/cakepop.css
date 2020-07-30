@@ -1,0 +1,35 @@
+body {
+  background-color: #B1A3C2;
+  margin: 0 10%;
+  font-family: 'Solway', sans-serif;
+  }
+
+a {
+  text-decoration: none;
+}
+a:link {
+	  color: #bd6726 ;
+}
+a:visited {
+	color: #bd6726;
+}
+a:focus, a:hover {
+	color: #bd6726;
+	background-color: #B1A3C2;
+}
+a:active {
+	color: #f0f;
+	background-color: #fff;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #703d16;
+  margin-top: 30px;
+}
+h2 {
+  color: #d1633c;
+  font-size: 1em;
+}
